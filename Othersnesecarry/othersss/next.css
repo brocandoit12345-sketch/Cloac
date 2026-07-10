@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(27, 27, 27);
+}
+.forpage {
+    color: rgb(197, 197, 197);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 75px;
+}
+.container {
+    border: none;
+    border-radius: 100px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 10px;
+    width: 870px;
+    height: 570px;
+    color: rgb(211, 211, 211);
+    background-color: rgb(44, 44, 44);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.forpass{
+    font-size: 50px;
+}
+.forwhy {
+    font-size: 14px;
+}
+.fortextbox {
+    width: 550px;
+    height: 21px;
+    border: none;
+    border-radius: 30px;
+    padding: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    overflow: auto;
+}
+.forback {
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 50px;
+    background-color: rgb(187, 13, 13);
+    color: white;
+    cursor: pointer;
+}
+.forback:hover {
+    background-color: rgb(243, 19, 19);
+}
+.forback:active {
+    background-color: rgb(43, 43, 253);
+}
+.fornext {
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 50px;
+    background-color: rgb(187, 13, 13);
+    color: white;
+    cursor: pointer;
+}
+.fornext:hover {
+    background-color: rgb(243, 19, 19);
+}
+.fornext:active {
+    background-color: rgb(43, 43, 253);
+}
